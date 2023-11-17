@@ -30,12 +30,6 @@
 
 Aplikasi Website ini ditujukan untuk penilaian Akhir Semester 4
 
-Nama : Elsa Novita
-NIM : 210077
-Kelas : RA-1 (Semester 4)
-Prodi : Teknik Informatika
-Mata Kuliah : Pemrograman Web III
-
 ### Admin Root 
 Email:  elsanovitaca@gmail.com
 Password: 210077

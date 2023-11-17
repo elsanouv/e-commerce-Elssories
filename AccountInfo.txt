@@ -1,0 +1,31 @@
+<!--=*= ADMIN INFO =*=-->
+
+Root Admin
+email	: elsanovitaca@gmail.com
+pass	: 210077
+
+Content Manager
+email	: content@elssories.id
+pass	: uas123
+	
+Technical Operator
+email	: operator@elssories.id
+pass	: uas123
+
+Sales Manager
+email	: sales@elssories.id
+pass	: uas123
+
+
+<!--=*= CUSTOMER INFO =*=-->
+
+
+email	: pelanggan@mail.com
+pass	: uas123
+
+email	: naf@mail.com
+pass	: uas123
+
+email	: put@mail.com
+pass	: uas123
+

@@ -31,8 +31,8 @@
 Aplikasi Website ini ditujukan untuk penilaian Akhir Semester 4
 
 ### Admin Root 
-Email:  elsanovitaca@gmail.com
-Password: 210077
+Email:  
+Password: 
 
 
 ### Features:
